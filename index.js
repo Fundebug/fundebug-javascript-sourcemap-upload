@@ -1,5 +1,5 @@
-var request = require("request-promise");
-var fs = require("fs");
+const request = require("request-promise");
+const fs = require("fs");
 
 var options = {
     method: "POST",
